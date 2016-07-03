@@ -1,0 +1,14 @@
+h1 {
+	background-color: olivedrab;
+	max-width: 470px;
+	border: 1px solid black;
+
+}
+
+p {
+	font-weight: 900;
+}
+
+p nth child {
+	color: red;
+}
